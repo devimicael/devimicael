@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Davi 🖖
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Exports404&show_icons=true&theme=radical)
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=devimicael&show_icons=true&theme=radical)
 
 ## plataformas de estudo.
 <div style="display: inline_block">
